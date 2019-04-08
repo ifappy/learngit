@@ -1,1 +1,2 @@
 push a commit to github
+checkout for inputting password
